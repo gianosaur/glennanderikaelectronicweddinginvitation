@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Glenn & Erika Blanca//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reception-20261212@glenn-erika-wedding
+DTSTAMP:20261030T010525Z
+DTSTART:20261212T083000Z
+DTEND:20261212T140000Z
+SUMMARY:Glenn & Erika Blanca — Wedding Reception
+LOCATION:Susing and Rufin's Farm\, Apsayan\, Gerona\, Tarlac
+DESCRIPTION:Reception\, dinner\, program and dancing follow the ceremony.
+END:VEVENT
+END:VCALENDAR

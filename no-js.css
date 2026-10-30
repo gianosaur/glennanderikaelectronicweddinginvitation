@@ -1,0 +1,6 @@
+/* Loaded only when JavaScript is off: show everything in a readable, static layout. */
+.envelope-screen, .countdown, .petals, .map-frame, .toggle-icon, .rsvp-shortcut, .event__more, .entourage__toggle { display: none !important; }
+.disclosure { grid-template-rows: 1fr; }
+.disclosure__inner { visibility: visible; }
+.attire-card { display: block; }
+.attire-face--back { transform: none; margin-top: 16px; }

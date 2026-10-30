@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Glenn & Erika Blanca//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ceremony-20261212@glenn-erika-wedding
+DTSTAMP:20261030T010525Z
+DTSTART:20261212T063000Z
+DTEND:20261212T083000Z
+SUMMARY:Glenn & Erika Blanca — Wedding Ceremony
+LOCATION:Shrine of St. Josemaria Escriva\, Magaspac\, Gerona\, Tarlac
+DESCRIPTION:Ceremony officiated by Rev. Fr. Ricardo G. Capinpin Jr.
+END:VEVENT
+END:VCALENDAR
